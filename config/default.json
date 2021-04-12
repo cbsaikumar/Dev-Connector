@@ -2,5 +2,6 @@
     "mongoURI": "mongodb+srv://cbsaikumar:cbsaikumar@devconnector.t617y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken",
     "githubClientId": "c92a52b4d1f184bd6a8a",
-    "githubClientSecret": "ba6c56a9339e8c026969602a659bf25e519474f7"
+    "githubClientSecret": "ba6c56a9339e8c026969602a659bf25e519474f7",
+    "tokenValidity": "24h"
 }
